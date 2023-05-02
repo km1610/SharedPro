@@ -1,0 +1,28 @@
+#call, #cal-cta{
+    color: white;
+    text-decoration: none;
+}
+
+#hero img{
+    margin: 20px;
+}
+
+#features li{
+    list-style: none;
+}
+
+#features .fa{
+    color: green;
+}
+
+
+#testimonals img {
+    height: 200px;
+    width: 200px;
+    align-self: center;
+}
+
+#testimonals .fa{
+    color: goldenrod;
+}
+
